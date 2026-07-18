@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:15171a,100:1e2126&height=180&section=header&text=Hasnain%20Raza&fontSize=42&fontColor=f5f5f3&fontAlignY=40&desc=Business%20Operations%20SaaS%20%2B%20AI%20Integration&descAlignY=62&descSize=18&descColor=5b8def&animation=fadeIn" width="100%"/>
 </p>
 
-<img src="./working-remotely.svg" width="250" align="right"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250" align="right"/>
 
 ### What I do
 
